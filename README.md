@@ -1,6 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=19&reversal=true&animation=fadeIn&fontSize=20&fontAlignY=50&section=header"/>
-<img width=100% src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=1000&color=FFFFFF&center=true&vCenter=false&random=false&width=500&height=35&lines=Oi%2C+eu+sou+o+Andr%C3%A9+%E2%9C%8C%EF%B8%8F;Bem-vindo!" alt="Typing SVG" />
-
 <div align="left" style="display" display="inline-block">
   
   ## tools:
