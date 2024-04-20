@@ -1,4 +1,4 @@
-<h1 align="left">🎃</h1>
+<h1 align="center">🎃</h1>
 
 ###
 
@@ -8,17 +8,12 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img height="200" src="coding.gif"  />
 </div>
 
-###
-
-<h3 align="left">Tools</h3>
-
-###
-
-<div align="left">
+<div align="center">
+  <h3 align="center">Tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -30,13 +25,10 @@
   <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
 </div>
 
-###
 
-<h3 align="left">Learning</h3>
 
-###
-
-<div align="left">
+<div align="center">
+  <h3 align="center">Learning</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
@@ -48,12 +40,12 @@
 
 ###
 
-<p align="left"></p>
+<p align="center"></p>
 
 ###
 
-&nbsp;<div align="left">  
-  <h4>Spotify queue</h4>
+&nbsp;<div align="center">  
+  <h3>Spotify queue</h4>
 
   [![Spotify](https://novatorem-git-main-drezolis-projects.vercel.app/api/spotify?background_color=0d1117&border_color=000000)](https://open.spotify.com/user/31qqt4fzbw6ilt4snqjmcpevcg3i)
 </div>
