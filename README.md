@@ -36,8 +36,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="15" />
@@ -54,7 +52,9 @@
 
 ###
 
-&nbsp;<div align="center">  
+&nbsp;<div align="left">  
+  <h4>Spotify queue</h4>
+
   [![Spotify](https://novatorem-git-main-drezolis-projects.vercel.app/api/spotify?background_color=0d1117&border_color=000000)](https://open.spotify.com/user/31qqt4fzbw6ilt4snqjmcpevcg3i)
 </div>
  
