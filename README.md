@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 🔭 IT Intern at Schwan Cosmetics<br>- 📚 Studying JavaScript and Tailwind CSS<br>- 🎓Graduating in Computer Science at Unicuritiba</p>
+<p align="left">- 🔭 Aprendiz de TI na Schwan Cosmetics<br>- 📚 Estudando Javascript e Tailwind<br>- 🎓Graduando em Ciência da Computação na Unicuritiba</p>
 
 ###
 
