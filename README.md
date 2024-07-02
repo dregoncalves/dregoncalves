@@ -12,6 +12,6 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,java,spring,mysql,postgres,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,java,spring,mysql,php)](https://skillicons.dev)
 
 ###
