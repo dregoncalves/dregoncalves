@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 🔭 Aprendiz de TI na Schwan Cosmetics<br>- 📚 Estudando Javascript e Tailwind<br>- 🎓Graduando em Ciência da Computação na Unicuritiba</p>
+<p align="left">- 🔭 Estagiário em Desenvolvimento Web na Upnext<br>- 📚 Estudando Javascript e Tailwind<br>- 🎓Graduando em Ciência da Computação na Unicuritiba</p>
 
 ###
 
