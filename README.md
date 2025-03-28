@@ -12,6 +12,14 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,typescript,react,next,tailwind,java,spring,mysql,git)](https://skillicons.dev)
+### **Skills:**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,typescript,react,next,tailwind,java,spring,mysql,git)](https://skillicons.dev)
+
+------------
+
+### **Learning:**
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,angular)](https://skillicons.dev)
 
 ###
