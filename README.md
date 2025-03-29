@@ -20,6 +20,6 @@
 
 ### **Learning:**
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,angular,vite)](https://skillicons.dev)
 
 ###
