@@ -16,10 +16,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,typescript,react,next,tailwind,java,spring,mysql,git)](https://skillicons.dev)
 
-------------
-
-### **Learning:**
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,angular,vite)](https://skillicons.dev)
-
+-----------
 ###
