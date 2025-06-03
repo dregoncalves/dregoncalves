@@ -14,7 +14,7 @@
 
 ### **Skills:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,typescript,react,next,tailwind,java,spring,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,typescript,react,next,tailwind,java,spring,mysql,postman,git&theme=light)](https://skillicons.dev)
 
 -----------
 ###
