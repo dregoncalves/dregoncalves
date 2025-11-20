@@ -8,13 +8,13 @@
 
 ###
 
-<p align="left">- 🔭 Estagiário em Desenvolvimento Front End na Upnext<br>- 🎓Graduando em Ciência da Computação na Unicuritiba</p>
+<p align="left">- Desenvolvedor Full Stack Junior<br>- Graduando em Ciência da Computação na Unicuritiba</p>
 
 ###
 
 ### **Skills:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,typescript,react,next,tailwind,java,spring,mysql,postman,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,react,html,css,scss,next,tailwind,mysql,postman,git&theme=light)](https://skillicons.dev)
 
 -----------
 ###
